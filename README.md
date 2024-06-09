@@ -63,6 +63,6 @@ In 2020, faced an economic downturn caused by the COVID-19 pandemic, leading to 
 
 Though it bounced back stronger, with GDP per capita reaching new highs. I believe 2020 is still impacting many people!
 
-![Screenshot 2024-06-09 123605](https://github.com/SagarKalauni/Power-BI-Projects/assets/141047160/14f22199-a75f-4d9d-aa5a-f4f8b64c1a72)
+https://github.com/SagarKalauni/Power-BI-Projects/assets/141047160/e15233ed-2ba7-404e-a491-4f95a8873262
 
 https://www.linkedin.com/posts/sagarkalauni7_powerbi-dashboarding-datainsight-activity-7191459564272148480-MHnT?utm_source=share&utm_medium=member_desktop
